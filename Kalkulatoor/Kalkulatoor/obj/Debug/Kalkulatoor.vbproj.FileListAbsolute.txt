@@ -1,0 +1,18 @@
+C:\Users\Aldha\AppData\Local\Temporary Projects\Kalkulatoor\bin\Debug\Kalkulatoor.exe
+C:\Users\Aldha\AppData\Local\Temporary Projects\Kalkulatoor\bin\Debug\Kalkulatoor.pdb
+C:\Users\Aldha\AppData\Local\Temporary Projects\Kalkulatoor\bin\Debug\Kalkulatoor.xml
+C:\Users\Aldha\AppData\Local\Temporary Projects\Kalkulatoor\obj\Debug\Kalkulatoor.Form1.resources
+C:\Users\Aldha\AppData\Local\Temporary Projects\Kalkulatoor\obj\Debug\Kalkulatoor.Resources.resources
+C:\Users\Aldha\AppData\Local\Temporary Projects\Kalkulatoor\obj\Debug\Kalkulatoor.vbproj.GenerateResource.Cache
+C:\Users\Aldha\AppData\Local\Temporary Projects\Kalkulatoor\obj\Debug\Kalkulatoor.exe
+C:\Users\Aldha\AppData\Local\Temporary Projects\Kalkulatoor\obj\Debug\Kalkulatoor.xml
+C:\Users\Aldha\AppData\Local\Temporary Projects\Kalkulatoor\obj\Debug\Kalkulatoor.pdb
+C:\Users\Aldha\Documents\Visual Studio 2013\Projects\New folder\Kalkulatoor\Kalkulatoor\obj\Debug\Kalkulatoor.exe
+C:\Users\Aldha\Documents\Visual Studio 2013\Projects\New folder\Kalkulatoor\Kalkulatoor\obj\Debug\Kalkulatoor.xml
+C:\Users\Aldha\Documents\Visual Studio 2013\Projects\New folder\Kalkulatoor\Kalkulatoor\obj\Debug\Kalkulatoor.pdb
+C:\Users\Aldha\Documents\Visual Studio 2013\Projects\New folder\Kalkulatoor\Kalkulatoor\bin\Debug\Kalkulatoor.exe
+C:\Users\Aldha\Documents\Visual Studio 2013\Projects\New folder\Kalkulatoor\Kalkulatoor\bin\Debug\Kalkulatoor.pdb
+C:\Users\Aldha\Documents\Visual Studio 2013\Projects\New folder\Kalkulatoor\Kalkulatoor\bin\Debug\Kalkulatoor.xml
+C:\Users\Aldha\Documents\Visual Studio 2013\Projects\New folder\Kalkulatoor\Kalkulatoor\obj\Debug\Kalkulatoor.Form1.resources
+C:\Users\Aldha\Documents\Visual Studio 2013\Projects\New folder\Kalkulatoor\Kalkulatoor\obj\Debug\Kalkulatoor.Resources.resources
+C:\Users\Aldha\Documents\Visual Studio 2013\Projects\New folder\Kalkulatoor\Kalkulatoor\obj\Debug\Kalkulatoor.vbproj.GenerateResource.Cache
